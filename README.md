@@ -14,10 +14,12 @@
 
 ## Screenshots
 
-![Browser in action](https://via.placeholder.com/800x400)  
+![Browser in action]![Screenshot1](https://github.com/user-attachments/assets/df45fe54-a132-49f9-b3f1-0b4b6a4c5b76)
+ 
 *Example of a tab with a loaded website.*
 
-![Extension manager](https://via.placeholder.com/800x400)  
+![Extension manager]![Screenshot2](https://github.com/user-attachments/assets/95dab76a-c009-4aff-8c18-245089b878f5)
+  
 *Managing custom extensions.*
 
 ---
