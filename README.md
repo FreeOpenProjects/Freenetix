@@ -39,7 +39,7 @@ Ensure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/Freenetix.git
+   git clone https://github.com/FreeOpenProjects/Freenetix.git
    cd Freenetix
 
 2. Compile to exe:
