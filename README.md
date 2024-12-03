@@ -42,10 +42,11 @@ Ensure you have the following installed:
    git clone https://github.com/your-username/Freenetix.git
    cd Freenetix
 
-2. Install dependencies:
+2. Compile to exe:
 
     ```bash
-    pip install -r requirements.txt
+    python compile.py
+    cd dist
 
 3. Run the application:
 
